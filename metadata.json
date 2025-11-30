@@ -1,0 +1,5 @@
+{
+  "name": "VideoCut",
+  "description": "A professional-grade in-browser video editor powered by Gemini AI for smart content analysis and metadata generation.",
+  "requestFramePermissions": []
+}
